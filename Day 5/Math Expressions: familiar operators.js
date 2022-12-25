@@ -13,7 +13,6 @@ console.log(num);
 /// 2   
 
 
-
 const costPerItem = totalCost / numberOfItems;
 
 /// In a single statement, declare the variable largeNum and assign it the result of 1,000 multiplied by 2,000
