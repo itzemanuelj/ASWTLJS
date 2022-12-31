@@ -1,5 +1,6 @@
 //pop removes last element
 //push adds at the end of the element
+///end of elements
 
 ///This code declares an empty array. Complete it.
 let finalScores = [];
