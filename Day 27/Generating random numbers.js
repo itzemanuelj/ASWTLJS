@@ -45,3 +45,7 @@ let numbers = math.random(number);
 let num2 = num1 * 6 + 1;
 let num1 = Math.random();
 let num3 = Math.floor(num2);
+
+let bigDecimal = Math.random();
+let improvedNum = bigDecimal * 6 + 1;
+let numberOfStars = Math.floor(improvedNum);
