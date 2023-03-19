@@ -1,4 +1,4 @@
-///Type the illegal character in this statement.
+        ///Type the illegal character in this statement.
 // var product cost = 3.45;
 let productCost = 3.45;
 
