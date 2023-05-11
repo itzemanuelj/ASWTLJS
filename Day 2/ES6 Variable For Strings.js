@@ -7,8 +7,8 @@ world
 !
 `;
 
-let name = "justin";
+let fname = "justin";
 
-let message = `hello ${name}`;
+let message = `hello ${fname}`;
 
 let total = `${3 + 2} is greater than ${3 + 1}`;

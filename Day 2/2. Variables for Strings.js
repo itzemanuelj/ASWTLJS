@@ -18,6 +18,7 @@ let name = "justin";
 
 /// this statement...
 userName = "buddy5000";
+
 /// is correct only if the variable has already been _______.
 
 /// declared
@@ -36,5 +37,6 @@ let lake = "great lakes";
 
 /// This statement has already been coded.
 let bestMan = "Charlie";
+
 /// Assign the variable a new string.
 bestMan = "Chachovar";
